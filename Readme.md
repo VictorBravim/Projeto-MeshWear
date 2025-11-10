@@ -1,12 +1,12 @@
-# 🏪 MeshWear
+# MeshWear
 
 ![image 11](https://github.com/VictorBravim/MeshWear/assets/122113588/557d001b-eae6-4196-851a-56a8bbb38e0a)
 
-## 🚀 Overview
+## <code>Introdução</code>
 
-This project is a clothing e-commerce developed in React with Vite as a bundler. It uses the FakeStore API to obtain product data, Zustand for state management, and includes features such as shopping cart and checkout.
+Este projeto é um e-commerce de roupas desenvolvido em React com Vite como bundler. Ele usa a API FakeStore para obter dados do produto, Zustand para gerenciamento de estado e inclui recursos como carrinho de compras e checkout.
 
-## 📋 Requirements
+## <code>Pré-requisitos</code>
 
 - React e ReactDOM
 - Vite (bundler)
@@ -14,34 +14,33 @@ This project is a clothing e-commerce developed in React with Vite as a bundler.
 - React Router (navegação)
 - Axios (requisições HTTP)
 
-## 🔧 Installation
+## <code>Configuração</code>
 
-1. Clone this repository:
+1. Clone este repositório:
    
 ```bash
 git clone https://github.com/VictorBravim/MeshWear.git
 ```
 
-2. Install dependencies:
+2. Instale dependências:
    
 ```bash
 npm install
 ```
 
-3. Launch the application:
+3. Inicie o aplicativo:
    
 ```bash
 npm run dev
 ```
 
-## 🛠️ Project Structure
+## <code>Estrutura</code>
 
-- Explore Products: Main page that displays products obtained from the FakeStore API.
-- Product Details: Detailed view page for each product.
-- Shopping Cart: Use Zustand to manage the status of the cart.
-- Checkout: Checkout page to review the products in the cart and finalize the purchase.
+- Explore Products: Página principal que exibe produtos obtidos na API FakeStore.
+- Product Details: Página de visualização detalhada de cada produto.
+- Shopping Cart: Use Zustand para gerenciar o status do carrinho.
+- Checkout: Página de checkout para revisar os produtos no carrinho e finalizar a compra.
 
-## 📄 License
+## <code>Licença</code>
 
-- This project is licensed under the [MIT License](LICENSE).
-
+- Este projeto está licenciado sob a [Licença MIT](LICENSE).
